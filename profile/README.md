@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://bronto.io">
-    <img src="https://bronto.io/assets/bronto-logo-DbWPAuNL.png" alt="Bronto" height="80">
+    <img src="https://avatars.githubusercontent.com/u/147431817?s=200&v=4" alt="Bronto" height="80">
   </a>
 </h1>
 
